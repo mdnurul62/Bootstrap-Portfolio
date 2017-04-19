@@ -1,20 +1,21 @@
+
+body {
+  max-width: 980px;
+  margin-left: 170px;
+}
+
+
 .bg-1 { 
       background-color: lightblue;
       color: black;
   }
+
   .bg-2 { 
-      background-color: #474e5d;
-      color: #ffffff;
-  }
-  .bg-3 { 
       background-color: lightblue;
       color: #555555;
   }
 
-  .bg-4 {
-    background-color: lightblue;
-  }
-  .bg-5 { 
+  .bg-3 { 
       background-color: #2f2f2f;
       color: #fff;
   }
