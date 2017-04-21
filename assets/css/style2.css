@@ -4,7 +4,9 @@ body {
   margin-left: 170px;
 }
 
-
+.container {
+  max-width: 980px;
+}
 .bg-1 { 
       background-color: lightblue;
       color: black;
